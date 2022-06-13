@@ -31,5 +31,5 @@ def make_gif(frame_dir):
 
 if __name__ == "__main__":
     # resizer("quote", "new")
-    make_gif("bar")
+    make_gif("quote")
 
